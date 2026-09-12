@@ -38,7 +38,8 @@ An interactive executive dashboard was constructed using **Pivot Tables**, **Piv
 2. Open the `.xlsx` workbook using Microsoft Excel (2019 or newer recommended).
 3. Test the interactive **Monthly Slicers** on the dashboard tab to witness real-time reporting updates.
 
-## 💬 Let's Connect! I am actively seeking Data Analyst opportunities where I can bridge the gap between complex data pipelines and corporate strategy.
+## 💬 Let's Connect! 
+I am actively seeking Data Analyst opportunities where I can bridge the gap between complex data pipelines and corporate strategy.
 
 LinkedIn: https://linkedin.com/in/aulia-khairunnisa
 Email: aulkhairn@gmail.com
